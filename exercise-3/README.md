@@ -9,3 +9,15 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# Adding files to staging 
+``` git add . ``` 
+_this adds all the new files to the staging git_ 
+
+# Commiting files to git 
+``` git commit -m "comment"```
+_this commit the staging to actual git (on your computer)_
+
+# Pushing files to github 
+``` git push ``` 
+_this pushes the file on your computer to github. You can see the updated files on github account._ 
